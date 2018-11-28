@@ -9,6 +9,8 @@
  <head>
  	<title>Welcome BRADAHHH</title>
  		<link rel="stylesheet" type="text/css" href="assets/css/css.css">
+		<link rel="stylesheet" type="text/css" href="assets/css/transition.css"> 		
+ 		<link rel="shortcut icon" type="image/jpg" href="assets/icon/darkside.jpg">
  </head>
  <body>
  	<div class="top-gray"></div>
@@ -22,7 +24,7 @@
  				if (!is_null(get('p'))) {
  				 	switch (get('p')) {
  				 		case 'blog':
- 				 			inc('home');
+ 				 			inc('tampilan/crud/blog');
  				 			break;
  				 		case 'crud':
  				 			switch (get('m')) {

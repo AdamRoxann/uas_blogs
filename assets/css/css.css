@@ -1,6 +1,7 @@
 * {
 	outline: none;
 }
+
 body{
 	margin: 0;
 	font-family: Candara;
@@ -86,4 +87,11 @@ input {
 }
 input:hover {
 	border:1px solid #bf3e11;
+}
+.blog {
+	border: transparent;
+}
+
+rect {
+	width: 100px;
 }
