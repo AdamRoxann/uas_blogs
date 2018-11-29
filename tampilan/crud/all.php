@@ -35,6 +35,11 @@ $data = $hasil->fetchAll();
 			<?php 
 			$i++; 
 		} 
-		?> 
+		?>
 	</tbody> 
 </table>
+&nbsp;
+<footer style="text-align: center;">
+	Copyright&copy; 2018 Adam Roxann Irsyad
+</footer>
+&nbsp;

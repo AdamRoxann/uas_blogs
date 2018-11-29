@@ -12,6 +12,10 @@
 		<tr> 
 			<td>Penulis</td> 
 			<td><input type="text" name="penulis"></td> 
+		</tr>
+		<tr>
+			<td>Tanggal</td>
+			<td><input type="date" name="tanggal"></td>
 		</tr> 
 		<tr> 
 			<td></td> 

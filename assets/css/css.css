@@ -95,3 +95,10 @@ input:hover {
 rect {
 	width: 100px;
 }
+
+@media screen and (max-width: 750px) {
+	* , body {
+
+		margin: 500px;
+	}
+}

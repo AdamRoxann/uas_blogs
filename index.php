@@ -8,14 +8,15 @@
  <html>
  <head>
  	<title>Welcome BRADAHHH</title>
+ 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
  		<link rel="stylesheet" type="text/css" href="assets/css/css.css">
 		<link rel="stylesheet" type="text/css" href="assets/css/transition.css"> 		
- 		<link rel="shortcut icon" type="image/jpg" href="assets/icon/darkside.jpg">
+ 		<link rel="shortcut icon" type="image/jpg" href="assets/icon/icon.png">
  </head>
  <body>
  	<div class="top-gray"></div>
  	<div class="header">
- 		<div class="big-logo">Roxann's Blog</div>
+ 		<div class="big-logo"><img src="assets/icon/giphy (5).gif" style="width: 30px;"> Roxann's Blog</div>
  		<?php include 'menu.php';?>
  	</div>
  	<div class="content">
